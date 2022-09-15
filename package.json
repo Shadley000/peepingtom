@@ -1,0 +1,23 @@
+{
+  "name": "peepingtom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadley000/peepingtom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadley000/peepingtom/issues"
+  },
+  "homepage": "https://github.com/Shadley000/peepingtom#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "0.0.1-security"
+  }
+}
