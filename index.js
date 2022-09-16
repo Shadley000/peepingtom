@@ -15,3 +15,9 @@ app.get('/env', (req, res) => {
 app.listen(port, () => {
 	console.log(`Example app listening on port ${port}`)
 })
+
+function heartBeat(){
+	console.log(`heartbeat`)
+}
+
+const interval = setInterval(heartBeat, 10000);
